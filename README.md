@@ -1,10 +1,3 @@
-<p align="center">
-  <img 
-    width="300"
-    height="800"
-    src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif"
-  >
-</p>
 <h1 align="center">Hi 👋, I'm Youssef JEHBALI</h1>
 <h3 align="center">Data Engineering Student</h3>
 <p align="center">
