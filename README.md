@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Youssef JEHBALI</h1>
-<h3 align="center">Data Engineering Student</h3>
+<h3 align="center">Cloud & DevOps Engineering Student</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefjeh&label=Profile%20views&color=0e75b6&style=flat" alt="youssefjeh" /> </p>
 
-- 🔭 I’m currently working on **OCR using deep learning**
+- 🔭 I’m currently working on **Elasticsearch Automation with Ansible**
 
-- 🌱 I’m currently learning **Machine learning,Deep Learning & Data vizualisation**
+- 🌱 I’m currently learning **Elasticsearch,Ansible & Terraform**
 
 - 📝 Here is my resume articles on [Win or die 💪](Win or die 💪)
 
