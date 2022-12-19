@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Deploy AKS with Terraform**
 
-- 🌱 I’m currently learning **ElasticKB8search,K8S,Ansible & Terraform**
+- 🌱 I’m currently learning **Elasticsearch,K8S,Ansible & Terraform**
 
 - Here is my resume articles on **Win or die 💪**
 
