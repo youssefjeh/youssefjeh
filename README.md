@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefjeh&label=Profile%20views&color=0e75b6&style=flat" alt="youssefjeh" /> </p>
 
-- 🔭 I’m currently working on **Deploy AKS with Terraform**
-
-- 🌱 I’m currently learning **Elasticsearch,K8S,Ansible & Terraform**
-
 - Here is my resume articles on **Win or die 💪**
 
 - 📫 How to reach me **youssef.jehbali@gmail.com**
