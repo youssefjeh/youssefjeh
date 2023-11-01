@@ -1,6 +1,6 @@
 <img align="center" width="1000" height="400" src="https://cloudstudio.com.au/wp-content/uploads/2022/04/DevOps-1024x472.png">
 <h1 align="center">Hi 👋, I'm Youssef JEHBALI</h1>
-<h3 align="center">Cloud & DevOps| Data Engineering Student</h3>
+<h3 align="center">Cloud & DevOps Engineering</h3>
 
 
 
