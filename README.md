@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/youssef-jehbali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssef-jehbali/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/youssefjh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/youssefjh" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/youssef.ouzdine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/youssef.ouzdine/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/youssefjh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/youssefjh_/" height="30" width="40" /></a>
 </p>
